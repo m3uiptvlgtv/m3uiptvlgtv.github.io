@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="9tv.co.il" lang="ru" xmltv_id="Channel9.il" site_id="#">9 канал</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#SPREE">SPREE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#TENHD">TENHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Adelaide#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#9Rush">9Rush</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#SPREE">SPREE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#TENHD">TENHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Brisbane#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#PrimS">PrimS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Canberra#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#DDT">DDT</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#SC">SC</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Darwin#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#10Nth">10Nth</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#NBN">NBN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#Prime">Prime</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="GoldCoast#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SC">SC</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#SHD7">SHD7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#TDHD">TDHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#TDT">TDT</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Hobart#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#9Rush">9Rush</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#SPREE">SPREE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#TENHD">TENHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Melbourne#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7GTS">7GTS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#10Nth">10Nth</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#Imp">Imp</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#NBN">NBN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#PrimN">PrimN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#PrimS">PrimS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="New South Wales#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#7C">7C</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#Imp">Imp</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Northern Territory#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#9Rush">9Rush</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#SPREE">SPREE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#TENHD">TENHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Perth#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7C">7C</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7QLD">7QLD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#7TWOQ">7TWOQ</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#Imp">Imp</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Queensland#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#7C">7C</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#7GTS">7GTS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#Imp">Imp</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SC9">SC9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#WIN9">WIN9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#WIN10">WIN10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="South Australia#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SC">SC</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#SHD7">SHD7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#TDHD">TDHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#TDT">TDT</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Tasmania#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Townsville#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ASPIR">ASPIR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#Prime">Prime</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SCA9">SCA9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SCHD">SCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#SNR">SNR</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#TVSN">TVSN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Victoria#WinSA">WinSA</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#GWN">GWN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#WDT">WDT</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#WIN">WIN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="" site_id="Western Australia#WINHD">WINHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7bravoAdelaide.au" site_id="Adelaide#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7bravoSydney.au" site_id="Sydney#7bravo">7bravo</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7flixAdelaide.au" site_id="Adelaide#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7flixSydney.au" site_id="Sydney#7flix">7flix</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7HDAdelaide.au" site_id="Adelaide#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7mateAdelaide.au" site_id="Adelaide#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7mateSydney.au" site_id="Sydney#7MATE">7MATE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7twoAdelaide.au" site_id="Adelaide#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="7twoSydney.au" site_id="Sydney#7TWO">7TWO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9GemSydney.au" site_id="Sydney#GEM">GEM</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9GoSydney.au" site_id="Sydney#GO">GO</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9HDAdelaide.au" site_id="Adelaide#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9LifeAdelaide.au" site_id="Adelaide#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9LifeSydney.au" site_id="Sydney#9Life">9Life</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9RushAdelaide.au" site_id="Adelaide#9Rush">9Rush</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="9RushSydney.au" site_id="Sydney#9Rush">9Rush</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10BoldSydney.au" site_id="Sydney#ONE">ONE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10PeachSydney.au" site_id="Sydney#11">11</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10ShakeSydney.au" site_id="Sydney#SHAKE">SHAKE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCAustralia.au" site_id="Sydney#ABCN">ABCN</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCKidsSydney.au" site_id="Sydney#ABC4KIDS">ABC4KIDS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCMESydney.au" site_id="Sydney#ABC3">ABC3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVNSW.au" site_id="New South Wales#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVNT.au" site_id="Northern Territory#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVPlusSydney.au" site_id="Sydney#ABC2">ABC2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVQLD.au" site_id="Queensland#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVSA.au" site_id="South Australia#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVSydney.au" site_id="Sydney#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVSydney.au" site_id="Sydney#ABCHD">ABCHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVTAS.au" site_id="Tasmania#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVVIC.au" site_id="Victoria#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="ABCTVWA.au" site_id="Western Australia#ABC1">ABC1</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="C31Melbourne.au" site_id="Melbourne#31">31</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel7Adelaide.au" site_id="Adelaide#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel7Sydney.au" site_id="Sydney#7">7</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel7Sydney.au" site_id="Sydney#7HD">7HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel9Adelaide.au" site_id="Adelaide#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel9Sydney.au" site_id="Sydney#9">9</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel9Sydney.au" site_id="Sydney#9HD">9HD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10Adelaide.au" site_id="Adelaide#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10Sydney.au" site_id="Sydney#10">10</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="10Sydney.au" site_id="Sydney#TENHD">TENHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Channel44.au" site_id="Adelaide#44">44</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="NITVAdelaide.au" site_id="Adelaide#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="NITVSydney.au" site_id="Sydney#NITV">NITV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="Racingcom.au" site_id="Sydney#RTV">RTV</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSAdelaide.au" site_id="Adelaide#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSFoodSydney.au" site_id="Sydney#SBS3">SBS3</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSSydney.au" site_id="Sydney#SBS">SBS</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSSydney.au" site_id="Sydney#SBSHD">SBSHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSVicelandSydney.au" site_id="Sydney#VICHD">VICHD</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSWorldMoviesSydney.au" site_id="Sydney#SBS2">SBS2</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SBSWorldWatchSydney.au" site_id="Sydney#SBSWW">SBSWW</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="SpreeTV.au" site_id="Sydney#SPREE">SPREE</channel>
+  <channel site="abc.net.au" lang="en" xmltv_id="TVSN.au" site_id="Sydney#TVSN">TVSN</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0086">Nickelodeon (Nordic) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0148">SVT1 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0255">V sport live 1 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0256">V sport live 2 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0257">V sport live 3 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0258">V sport live 4 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0259">V sport live 5 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0282">SVT2 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0288">NRK2 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0289">NRK3/ NRK Super HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="0356">Viasat Nature HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="596">Sky News (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="668">Horse &amp; Country HD -IP</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="718">TV 2 Sport X HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1001">SkyShowtime 2 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1002">SkyShowtime 1 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1003">HISTORY HD (N/D/F) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1004">HISTORY 2 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1005">Animal Planet HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1006">Discovery Science (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1007">DW English (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1008">Bloomberg (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1009">MOTORVISION TV HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1013">ID Investigation Discovery (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1014">TLC Danmark (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1015">Sport Live (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1016">BBC Nordic HD (S/D/F) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1033">France 24 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1074">Discovery Channel HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="" site_id="1075">Eurosport 1 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="6eren.dk" site_id="568">6'eren HD (D) (T)</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="0344">Al Jazeera English -OTT</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="0016">BBC News (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="BoomerangNordic.uk" site_id="0017">Cartoonito (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="Canal9.dk" site_id="0368">CANAL9 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="CartoonNetworkScandinavia.uk" site_id="0028">Cartoon Network (T)</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="CNBCEurope.uk" site_id="0032">CNBC (T)</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="0033">CNN (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="dk4.dk" site_id="0376">dk4 (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="DR1.dk" site_id="452">DR1 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="DR2.dk" site_id="0051">DR2 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="DRRamasjang.dk" site_id="0048">DR Ramasjang (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="Eurosport2.dk" site_id="0367">Eurosport 2 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="Kanal4.dk" site_id="0064">Kanal 4 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="Kanal5.dk" site_id="0065">Kanal 5 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="MTV00s.uk" site_id="0246">MTV 00s (T)</channel>
+  <channel site="allente.dk" lang="en" xmltv_id="MTV80s.uk" site_id="604">MTV 80s (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="MTVGlobal.uk" site_id="0076">MTV (Nordic) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="NationalGeographic.dk" site_id="0317">National Geographic HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="NickJrScandinavia.nl" site_id="0088">Nick Jr. (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="NicktoonsScandinavia.nl" site_id="570">Nicktoons (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="NRK1.no" site_id="0090">NRK1 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2.dk" site_id="0297">TV 2 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2Charlie.dk" site_id="0180">TV 2 Charlie HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2Fri.dk" site_id="0378">TV 2 Fri HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2News.dk" site_id="0190">TV 2 News HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2Sport.dk" site_id="454">TV 2 Sport HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV2Zulu.dk" site_id="0209">TV 2 Echo HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV3.dk" site_id="0359">TV3 HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV3Max.dk" site_id="0374">TV3 MAX HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV3Plus.dk" site_id="0248">TV3+ HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV3Puls.dk" site_id="665">TV3 Puls HD (D) (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="TV3Sport.dk" site_id="0200">TV3 Sport HD (D) (T)</channel>
+  <channel site="allente.dk" lang="sv" xmltv_id="TV4.se" site_id="0227">TV4 HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VFilmAction.se" site_id="0299">V film action HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VFilmFamily.se" site_id="0308">V film family (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VFilmHits.se" site_id="0322">V film hits HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VFilmPremiere.se" site_id="0321">V film premiere HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="ViasatExplore.se" site_id="0358">Viasat Explore HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="ViasatHistory.se" site_id="0357">Viasat History HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VSeries.se" site_id="0320">V series HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VSportGolf.se" site_id="0364">V sport golf HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="VSportUltraHD.se" site_id="418">V sport ultra HD (T)</channel>
+  <channel site="allente.dk" lang="da" xmltv_id="Xee.dk" site_id="707">See (D) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0016">BBC News (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0086">Nickelodeon (Nordic) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0147">SVT Barn HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0148">SVT1 HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0149">Kunskapskanalen HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0274">V sport+ Suomi HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0282">SVT2 HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0344">Al Jazeera English -OTT</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0356">Viasat Nature HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0357">Viasat History HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="0358">Viasat Explore HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="570">Nicktoons (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="596">Sky News (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="604">MTV 80s (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="668">Horse &amp; Country HD -IP</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="686">YLE 1 (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="687">YLE 2 (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="689">YLE Teema &amp; Fem (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="968">MTV Aitio (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="971">MTV Viihde (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="972">SF Kanalen (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1001">SkyShowtime 2 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1002">SkyShowtime 1 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1003">HISTORY HD (N/D/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1004">HISTORY 2 HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1005">Animal Planet HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1006">Discovery Science (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1007">DW English (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1008">Bloomberg (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1009">MOTORVISION TV HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1011">ID Investigation Discovery (N/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1016">BBC Nordic HD (S/D/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1024">Eurosport 2 HD (S/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1033">France 24 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1076">MTV3 HD (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1077">Nelonen (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1078">MTV Sub (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1079">TV5 (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1080">liv (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1081">JIM (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1083">Discovery Channel (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1084">MTV Juniori (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1085">MTV Max HD (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1086">MTV Urheilu 1 HD (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1087">MTV Urheilu 2 HD (F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="" site_id="1088">Eurosport 1 HD (F) (T)</channel>
+  <channel site="allente.fi" lang="da" xmltv_id="BoomerangNordic.uk" site_id="0017">Cartoonito (T)</channel>
+  <channel site="allente.fi" lang="en" xmltv_id="CartoonNetworkScandinavia.uk" site_id="0028">Cartoon Network (T)</channel>
+  <channel site="allente.fi" lang="en" xmltv_id="CNBCEurope.uk" site_id="0032">CNBC (T)</channel>
+  <channel site="allente.fi" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="0033">CNN (T)</channel>
+  <channel site="allente.fi" lang="en" xmltv_id="MTV00s.uk" site_id="0246">MTV 00s (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="MTVGlobal.uk" site_id="0080">MTV (Nordic) (T)</channel>
+  <channel site="allente.fi" lang="sv" xmltv_id="NationalGeographic.fi" site_id="0084">National Geographic HD (S/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="NickJrScandinavia.nl" site_id="0088">Nick Jr. (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VFilmAction.se" site_id="0299">V film action HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VFilmFamily.se" site_id="0308">V film family (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VFilmHits.se" site_id="0322">V film hits HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VFilmPremiere.se" site_id="0321">V film premiere HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSport1.fi" site_id="0159">V sport 1 Suomi HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSport1.se" site_id="0362">V sport 1 HD (S/F) (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSport2.fi" site_id="488">V sport 2 Suomi HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportFootball.se" site_id="0269">V sport football HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportGolf.se" site_id="0364">V sport golf HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportLive1.se" site_id="0255">V sport live 1 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportLive2.se" site_id="0256">V sport live 2 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportLive3.se" site_id="0257">V sport live 3 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportLive4.se" site_id="0258">V sport live 4 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportLive5.se" site_id="0259">V sport live 5 (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportPremium.se" site_id="527">V sport premium HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportUltraHD.se" site_id="418">V sport ultra HD (T)</channel>
+  <channel site="allente.fi" lang="fi" xmltv_id="VSportVinter.se" site_id="0363">V sport vinter HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0017">Cartoonito (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0086">Nickelodeon (Nordic) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0187">TV2 Direkte (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0198">TV2 Sport Premium 2 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0356">Viasat Nature HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="0361">TV3+ (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1001">SkyShowtime 2 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1002">SkyShowtime 1 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1003">HISTORY HD (N/D/F) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1004">HISTORY 2 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1005">Animal Planet HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1006">Discovery Science (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1007">DW English (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1008">Bloomberg (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1009">MOTORVISION TV HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1010">Bilkanalen Auto Motor og Sport TV (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1011">ID Investigation Discovery (N/F) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1012">TLC Norge HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1017">BBC Nordic HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1033">France 24 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1034">VGTV HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1047">V sport Premier League HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1048">V sport Premier League 1 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1049">V sport Premier League 2 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1089">Heim HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1090">Stars HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="1091">Hits HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="452">DR1 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="596">Sky News (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="668">Horse &amp; Country HD -IP</channel>
+  <channel site="allente.no" lang="no" xmltv_id="" site_id="972">SF Kanalen (T)</channel>
+  <channel site="allente.no" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="0344">Al Jazeera English -OTT</channel>
+  <channel site="allente.no" lang="en" xmltv_id="BBCNewsEurope.uk" site_id="0016">BBC News (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="CartoonNetworkScandinavia.uk" site_id="0028">Cartoon Network (T)</channel>
+  <channel site="allente.no" lang="en" xmltv_id="CNBCEurope.uk" site_id="0032">CNBC (T)</channel>
+  <channel site="allente.no" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="0033">CNN (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="DiscoveryChannel.no" site_id="532">Discovery Channel HD (N) (T)</channel>
+  <channel site="allente.no" lang="da" xmltv_id="DR2.dk" site_id="0051">DR2 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="Eurosport.no" site_id="530">Eurosport Norge HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="Eurosport1.no" site_id="531">Eurosport 1 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="FEM.no" site_id="0056">FEM HD (T)</channel>
+  <channel site="allente.no" lang="sv" xmltv_id="Kunskapskanalen.se" site_id="0149">Kunskapskanalen HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="MAX.no" site_id="533">MAX HD (T)</channel>
+  <channel site="allente.no" lang="en" xmltv_id="MTV00s.uk" site_id="0246">MTV 00s (T)</channel>
+  <channel site="allente.no" lang="en" xmltv_id="MTV80s.uk" site_id="604">MTV 80s (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="MTVGlobal.uk" site_id="0080">MTV (Nordic) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NationalGeographic.no" site_id="0316">National Geographic HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NickJrScandinavia.nl" site_id="0088">Nick Jr. (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NicktoonsScandinavia.nl" site_id="570">Nicktoons (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NRK1.no" site_id="0090">NRK1 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NRK2.no" site_id="0288">NRK2 HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="NRK3.no" site_id="0289">NRK3/ NRK Super HD (T)</channel>
+  <channel site="allente.no" lang="sv" xmltv_id="SVT1.se" site_id="0121">SVT1 HD (T)</channel>
+  <channel site="allente.no" lang="sv" xmltv_id="SVT2.se" site_id="0141">SVT2 HD (T)</channel>
+  <channel site="allente.no" lang="sv" xmltv_id="SVTBarn.se" site_id="0147">SVT Barn HD (T)</channel>
+  <channel site="allente.no" lang="da" xmltv_id="TV2.dk" site_id="0188">TV 2 HD (D) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2Livsstil.no" site_id="0277">TV2 Livsstil HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2Nyhetskanalen.no" site_id="457">TV2 Nyheter (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2Sport1.no" site_id="0199">TV2 Sport 1 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2Sport2.no" site_id="0406">TV2 Sport 2 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2SportPremium.no" site_id="0197">TV2 Sport Premium HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV2Zebra.no" site_id="0405">TV2 Zebra HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV3.no" site_id="0298">TV3 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TV6.no" site_id="0206">TV6 (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="TVNorge.no" site_id="534">TV Norge HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VFilmAction.se" site_id="0299">V film action HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VFilmFamily.se" site_id="0308">V film family (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VFilmHits.se" site_id="0322">V film hits HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VFilmPremiere.se" site_id="0321">V film premiere HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="ViasatExplore.se" site_id="0358">Viasat Explore HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="ViasatHistory.se" site_id="0357">Viasat History HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VOX.no" site_id="535">VOX HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSeries.se" site_id="0320">V series HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSport1.no" site_id="0365">V sport 1 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSport2.no" site_id="608">V sport 2 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSport3.no" site_id="609">V sport 3 HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportGolf.se" site_id="0364">V sport golf HD (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportLive1.se" site_id="0255">V sport live 1 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportLive2.se" site_id="0256">V sport live 2 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportLive3.se" site_id="0257">V sport live 3 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportLive4.se" site_id="0258">V sport live 4 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportLive5.se" site_id="0259">V sport live 5 (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportPlus.no" site_id="0271">V sport+ HD (N) (T)</channel>
+  <channel site="allente.no" lang="no" xmltv_id="VSportUltraHD.se" site_id="418">V sport ultra HD (T)</channel>
+</channels>
